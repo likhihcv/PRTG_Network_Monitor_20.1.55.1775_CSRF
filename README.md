@@ -78,7 +78,7 @@ function onLoadSubmit() {
 ### User accounts before CSRF attack
 ![0](https://user-images.githubusercontent.com/36541248/121513531-005d7b00-c9fc-11eb-8346-c04737d7869f.png)
 
-### Once the Admin Opens map CSRF Payload is triggered and new user account "user_test2" is created
+### Once the Admin opens the html, CSRF Payload is triggered and new user account "user_test2" is created
 ![9](https://user-images.githubusercontent.com/36541248/121513559-07848900-c9fc-11eb-8ae9-4ea660d2a35a.png)
 
 ### Testing Credentials
