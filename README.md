@@ -1,5 +1,5 @@
-# PRTG Network Monitoor v20.1.55 - CSRF
-Cross Site Request Forgery (CSRF) on PRTG Network Monitor version 20.1.55
+# PRTG Network Monitoor v20.1.55 - CSRF (CVE-2021-34547)
+Cross Site Request Forgery (CSRF) on PRTG Network Monitor version 20.1.55 
 
 Exploit Title: Cross Site Request Forgery (CSRF)  
 Date: 10/06/2021  
@@ -8,6 +8,7 @@ Vendor Homepage: https://www.paessler.com/
 Software Link: https://www.paessler.com/prtg  
 Test on Version: 20.1.55.1775+  
 Affected Versions: not tested on other versions  
+CVE assigned: CVE-2021-34547
 
 
 ## Observation
